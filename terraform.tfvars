@@ -9,4 +9,5 @@ subntname = "mysubnetname"
 ipaddressname = "myipaddress"
 
 nsgname = "mynsg"
+nicname = "mynic"
 
